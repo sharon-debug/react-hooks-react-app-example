@@ -13,4 +13,4 @@ function ExampleComponent() {
   );
 }
 
-export default ExampleComponent;
+export default ExampleComponent ;
